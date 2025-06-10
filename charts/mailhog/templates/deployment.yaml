@@ -1,5 +1,4 @@
 apiVersion: apps/v1
-#test
 kind: Deployment
 metadata:
   name: {{ include "mailhog.fullname" . }}
