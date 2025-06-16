@@ -1,3 +1,4 @@
+#test
 image:
   repository: docker.io/mailhog/mailhog
   tag: ""
